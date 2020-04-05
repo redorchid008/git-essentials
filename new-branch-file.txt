@@ -1,2 +1,2 @@
 This is just adding a new file within a very new branch which I created.
-Nothing else at all.
+But, this time it is there in master branch as well.
